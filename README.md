@@ -39,6 +39,8 @@ https://applitools.com/blog/troubleshoot-fix-react-bugs(test)
 
 https://reacttraining.com/
 
+https://www.coursera.org/learn/front-end-react
+
 ```
 <ol><li><span class="qlink_container"><a href="https://tylermcginnis.com/courses/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this, 65794598);" class="external_link" data-qt-tooltip="tylermcginnis.com" data-tooltip="attached">Courses for mastering the latest web technologies.</a></span></li><li><span class="qlink_container"><a href="https://www.udemy.com/react-redux/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this, 65794598);" class="external_link" data-qt-tooltip="udemy.com" data-tooltip="attached">Modern React with Redux | Udemy</a></span></li><li><span class="qlink_container"><a href="https://www.udemy.com/react-redux-tutorial/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this, 65794598);" class="external_link" data-qt-tooltip="udemy.com" data-tooltip="attached">Advanced React and Redux | Udemy</a></span></li><li><span class="qlink_container"><a href="https://egghead.io/courses/the-beginner-s-guide-to-reactjs" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this, 65794598);" class="external_link" data-qt-tooltip="egghead.io" data-tooltip="attached">The Beginner's Guide to ReactJS - Course by @kentcdodds</a></span></li><li><span class="qlink_container"><a href="https://egghead.io/courses/advanced-react-component-patterns" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this, 65794598);" class="external_link" data-qt-tooltip="egghead.io" data-tooltip="attached">Advanced React Component Patterns - Course by @kentcdodds</a></span></li></ol>
 ```
