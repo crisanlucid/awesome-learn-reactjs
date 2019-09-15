@@ -1,4 +1,4 @@
-# React Tutorials & Resources for Beginners and more...[![Awesome]
+# React Tutorials & Resources for Beginners and more...![Awesome]
 Curated list of resources to help you get started with React and Testing
 
 
